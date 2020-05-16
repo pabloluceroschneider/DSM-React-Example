@@ -1,5 +1,4 @@
 import React, { useState, useRef } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 const Welcome = props => {
